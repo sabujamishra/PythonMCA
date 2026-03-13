@@ -6,11 +6,11 @@ It serves as a collection of programs, experiments, and exercises for learning a
 ---
 
 ## 📂 Repository Structure
-- **/Unit1/** → Basic Python programs (variables, loops, conditionals)  
-- **/Unit2/** → Functions and modular programming  
-- **/Unit3/** → Object-Oriented Programming in Python  
-- **/Unit4/** → Data Structures (lists, stacks, queues, linked lists)  
-- **/Unit5/** → File handling, exceptions, and advanced topics  
+- **/Unit1/** → This folder contains the **labworks of Unit One** from Marwadi University Python coursework.  
+- **/Unit2/** → This folder contains the **labworks of Unit Two** from Marwadi University Python coursework.
+- **/Unit3/** → This folder contains the **labworks of Unit Three** from Marwadi University Python coursework.
+- **/Unit4/** → This folder contains the **labworks of Unit Four** from Marwadi University Python coursework.
+- **/Unit5/** → This folder contains the **labworks of Unit Five** from Marwadi University Python coursework.
 - **/Assignments/** → University lab assignments and projects  
 
 *(Folder names may vary depending on how the repo is organized.)*
