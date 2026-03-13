@@ -26,10 +26,7 @@ It serves as a collection of programs, experiments, and exercises for learning a
 
 ## 🚀 How to Run
 
-### Option 1: Clone directly (for public repo): Not works with this repo
+### Clone directly (for public repo):
+```bash
 git clone https://github.com/sabujamishra/PythonMCA.git
-
-### Option 2: Clone using token (for private repo): works for this repo
-from settings generate token (classic) with repo selected.
-git clone https://<your-token>@github.com/sabujamishra/PythonMCA.git
 
